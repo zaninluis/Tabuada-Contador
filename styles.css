@@ -1,0 +1,23 @@
+* {
+    font-family: helvetica;
+}
+
+#botao {
+    background-color: rgb(57, 246, 104);
+    color: white;
+    margin-top: 5px;
+}
+
+#botao:hover {
+    transition: 0.7s;
+    background-color: green;
+}
+
+.container {
+    background-color: rgb(50, 220, 247);
+    color: white
+}
+
+.form-control {
+    background-color: rgb(190, 246, 246);
+}
